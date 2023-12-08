@@ -1,4 +1,4 @@
-
+//Vucut Kitle Endeksi Hesaplama Uygulaması
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 import java.util.Scanner;
@@ -18,3 +18,7 @@ class Main {
         System.out.println("Vücut Kitle İndeksiniz: " + vucutKitleIndeksi);
     }
 }
+
+
+
+//Bu kodu çalıştırdığınızda kullanıcıdan boy ve kilo değerlerini girmesini isteyen bir program oluşturulur. Kullanıcı girdileri alındıktan sonra vücut kitle indeksi hesaplanır ve ekrana yazdırılır.
