@@ -9,7 +9,6 @@ Bu bölümde "Kodluyoruz" kapsamında aldığım "Yazılıma İlk Adım - Back E
 <img src="https://github.com/StarLordBerke4/kodluyoruz-backend/blob/main/Java/%C3%96dev/Ucak%20Bileti%20Uygulamasi/Java%20%C3%96dev%202.1.png" />
 
 <br>
-<br>
 
 <img src="https://github.com/StarLordBerke4/kodluyoruz-backend/blob/main/Java/%C3%96dev/Ucak%20Bileti%20Uygulamasi/Java%20%C3%96dev%202.2.png" />
 
