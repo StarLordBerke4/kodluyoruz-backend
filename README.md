@@ -6,12 +6,16 @@ Bu repoyu "Kodluyoruz | Yazılıma İlk Adım Backend Web Developer " programın
 
 <p>Java dili, güçlü yapılandırmaları ve geniş ekosistemiyle, backend geliştirme için sıklıkla tercih edilen bir dildir. Program süresince, veri tabanı yönetim sistemleri, API geliştirme, sunucu tarafı programlama gibi kritik konular ele alınarak, katılımcıların bu alanlarda derinlemesine bilgi sahibi olmaları sağlanır. Ayrıca, yazılım geliştirme pratiği, versiyon kontrol sistemleri ve Agile metodolojileri gibi önemli araçlar da eğitim müfredatına dahil edilmiştir.</p>
 
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/kodluyoruz-backend/blob/main/%C4%B0mages/languages-1024x576.png" alt="BackEnd" width="1100"/></a>
+
 <p>Kurs boyunca, grup çalışmaları ve bireysel projeler ile etkileşimli bir öğrenme ortamı sunulmakta, katılımcıların iş dünyasında ihtiyaç duyacakları takım çalışması ve iletişim becerileri geliştirilmesine katkıda bulunulmaktadır. Eğitimin sonunda, katılımcıların backend geliştirme konusundaki bilgi ve becerileri, onları sektördeki rekabete daha hazır hale getirecek şekilde pekiştirilmiş olur. Böylece, katılımcılar, iş hayatına atıldıklarında ihtiyaç duyacakları pratik bilgi ve deneyim ile donanmış olarak mezun olurlar.</p>
 
 <p>Kodluyoruz'un bu programı, yazılıma ilgi duyan herkes için erişilebilir bir başlangıç noktası sunmakta ve teknoloji dünyasına adım atmak isteyen bireyleri desteklemektedir. Eğitimin interaktif yapısı ve güncel içerikleri, katılımcıların alanındaki yenilikleri takip etmelerini ve kendilerini sürekli geliştirmelerini de teşvik etmektedir. Bu bağlamda, yazılım kariyerine sağlam bir başlangıç yapma fırsatı sunan bu program, hem yeni başlayanlar hem de kendini geliştirmek isteyen yazılımcılar için önemli bir adım olarak öne çıkmaktadır.</p>
 
 ### Java Programlama Dili Nedir?
 <p>Java, 1995 yılında Sun Microsystems tarafından geliştirilen, nesne yönelimli, platform bağımsız bir programlama dilidir. Geliştiricilere güçlü ve yüksek performanslı uygulamalar oluşturma imkanı sunan Java, "bir kez yaz, her yerde çalıştır" (write once, run anywhere) prensibi ile dikkat çeker. Bu özellik, Java uygulamalarının farklı platformlarda, özel bir derleyici ihtiyacı olmadan çalışabilmesini sağlar. Java'nın geniş bir kütüphane ve araç seti bulunur, bu da yazılımcıların karmaşık projeleri daha kolay yönetebilmesine olanak tanır. Java, büyük ölçekli kurumsal uygulamalar, mobil uygulamalar (özellikle Android), oyun geliştirme ve web uygulamaları gibi birçok alanda yaygın olarak kullanılmaktadır.</p>
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/kodluyoruz-backend/blob/main/%C4%B0mages/java.jpg" alt="Java" width="1100"/></a>
 
 <p>Java’nın güçlü yönlerinden biri de güvenliğine yapılan vurgu ve hafıza yönetimindeki dayanıklılığıdır. Otomatik çöp toplama (garbage collection) mekanizması sayesinde, bellek yönetimi konusunda geliştiricilere büyük kolaylıklar sunar. Ayrıca, Java’nın topluluk desteği oldukça geniştir, bu da yeni başlayanların zorluklarla karşılaştıklarında yardım alabilecekleri sayısız kaynak ve topluluk bulmalarını sağlar. Java, özellikle kurumsal uygulamalar için popüler bir tercih olmaya devam ederken, aynı zamanda eğitim kurumlarında da sıkça öğretilir, çünkü sunduğu kurumsal ve nesne yönelimli programlama prensipleri, öğrencilere sağlam bir temel kazandırır.</p>
 
@@ -21,7 +25,7 @@ Bu repoyu "Kodluyoruz | Yazılıma İlk Adım Backend Web Developer " programın
 <p>Kendi düşüncelerime gelirsek, yazılım dünyasına adım atmak isteyenlerin bu tür programları değerlendirmeleri gerektiğini düşünüyorum. Eğitim sürecinin hem teknik bilgi hem de kişisel gelişim açısından sunduğu olanaklar çok değerli. Hızla değişen teknoloji dünyasında güncel kalmak, sürekli öğrenmeyi gerektiriyor. Kodluyoruz'un sunduğu bu program, katılımcılara sadece Java gibi güçlü bir dil öğretmekle kalmayıp, aynı zamanda yazılım geliştirmeye dair derinlemesine bir anlayış kazandırma hedefi taşıyor. Kısacası, bu tür eğitimler, geleceğin yazılımcılarını şekillendirmek için büyük bir katkı sağlıyor.</p>
 
 ### Sertifikam:
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/-BM-Kodluyoruz/blob/main/%C4%B0mages/Kodluyoruz-ile-IBM_-CyberStart_43375290771679.jpg" alt="Sertifika" width="1100"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/kodluyoruz-backend/blob/main/%C4%B0mages/Kodluyoruz-Back-End-Web-Geli%C5%9Ftirme-67390081252622.jpg" alt="Sertifika" width="1100"/></a>
 
 - <b>Sertifika Adı:</b> Yazılıma İlk Adım Backend Web Developer
 - <b>Sertifika No:</b> 67390081252622
