@@ -1,7 +1,7 @@
-# kodluyoruz-backend
-Bu repoyu "Kodluyoruz | Yazılıma İlk Adım Backend Web Developer " programında; yaptığım ödev, proje ve ders notlarını paylaşmak için oluşturdum. 
+# Kodluyoruz | Yazılıma İlk Adım Backend Web Developer
+Bu GitHub deposunu, Kodluyoruz'un "Yazılıma İlk Adım Backend Web Developer" programı kapsamında yoğun bir şekilde devam eden öğrenim sürecimin bir kaydı olarak oluşturdum. Bu repo, program boyunca tamamladığım ödevleri, geliştirdiğim projeleri ve detaylı ders notlarımı düzenli bir şekilde bir araya getiren kapsamlı bir merkezdir. Burada, sunucu tarafı programlamanın temellerinden veri tabanı yönetimlerine, API geliştirmeden güvenlik konularına kadar geniş bir yelpazedeki çalışmalarımı bulabilirsiniz. Her bir ödev ve proje, teorik bilgilerimi pratiğe dönüştürme ve backend geliştirme becerilerimi pekiştirme çabamın birer kanıtıyken, ders notlarım da bu öğrenme yolculuğumdaki anahtar kavramları ve teknik detayları içermektedir. Bu depo, hem kendi kişisel gelişimimi belgelemek hem de backend web geliştirme alanındaki yetkinliklerimi ve sürekli öğrenme azmimi göstermem için değerli bir portfolyo görevi görüyor.
 
-### Kodluyoruz | Yazılıma İlk Adım Backend Web Developer
+### Yazılıma İlk Adım Backend Web Developer
 <p>Kodluyoruz'un "Yazılıma İlk Adım Backend Web Developer" programı, katılımcılara yazılım dünyasına adım atmak için güçlü bir temel sunmayı amaçlayan kapsamlı bir eğitimdir. Bu program, özellikle Java programlama dilini kullanarak backend geliştirme becerilerini kazandırmayı hedefler. Katılımcılar, yazılım geliştirme süreçleri hakkında teorik bilgi edinirken, uygulamalı projeler aracılığıyla gerçek dünya deneyimi elde eder.</p>
 
 <p>Java dili, güçlü yapılandırmaları ve geniş ekosistemiyle, backend geliştirme için sıklıkla tercih edilen bir dildir. Program süresince, veri tabanı yönetim sistemleri, API geliştirme, sunucu tarafı programlama gibi kritik konular ele alınarak, katılımcıların bu alanlarda derinlemesine bilgi sahibi olmaları sağlanır. Ayrıca, yazılım geliştirme pratiği, versiyon kontrol sistemleri ve Agile metodolojileri gibi önemli araçlar da eğitim müfredatına dahil edilmiştir.</p>
@@ -32,4 +32,4 @@ Bu repoyu "Kodluyoruz | Yazılıma İlk Adım Backend Web Developer " programın
 - <b>Sertifika URL:</b> https://drive.google.com/file/d/1VCLWZbTF_cdN8otk44O4xlWyp4tKnJrZ/view?usp=drive_link
 - <b>Linkedin Profil URL:</b> https://www.linkedin.com/in/starlordberke/
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/-BM-Kodluyoruz/blob/main/%C4%B0mages/kodluyoruz_cover.jpg" alt="İBM" width="1100"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/kodluyoruz-backend/blob/main/%C4%B0mages/kodluyoruz_cover.jpg" alt="İBM" width="1100"/></a>
