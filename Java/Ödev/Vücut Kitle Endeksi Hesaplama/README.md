@@ -6,4 +6,4 @@ Bu bölümde "Kodluyoruz" kapsamında aldığım "Yazılıma İlk Adım - Back E
 
 <p>Bu kodu çalıştırdığınızda kullanıcıdan boy ve kilo değerlerini girmesini isteyen bir program oluşturulur. Kullanıcı girdileri alındıktan sonra vücut kitle indeksi hesaplanır ve ekrana yazdırılır. </p>
 
-<img src="https://github.com/StarLordBerke4/kodluyoruz-backend/blob/main/Java/%C3%96dev/V%C3%BCcut%20Kitle%20Endeksi%20Hesaplama/Java%20%C3%96dev%201.png" />
+<img src="https://github.com/StarLordBerke4/kodluyoruz-backend/blob/main/Java/%C3%96dev/V%C3%BCcut%20Kitle%20Endeksi%20Hesaplama/G%C3%B6rseller/Java%20%C3%96dev%201.png" />
